@@ -7773,8 +7773,11 @@ input#pic-link {
 
 /* heo 加载动画头像 */
 /* background: url(https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp) */
+/* https://p3-sign.douyinpic.com/obj/tos-cn-o-0812/oIaWxswIlENAyAAUyCVeTBrDIwnAqyAeMgbdsx?x-expires=1733976000&x-signature=KCvbt3aA8TiTySTZzog7cFoczfk%3D&from=2445653963 */
+
 .loading-img {
-  background: url(https://pic1.zhimg.com/50/v2-e9e296348e308a90b38c81d7c848690c_720w.jpg?source=1940ef5c)
+  /* background: url(https://pic1.zhimg.com/50/v2-e9e296348e308a90b38c81d7c848690c_720w.jpg?source=1940ef5c) */
+  background: url(https://tuchuang.voooe.cn/images/2023/12/13/oIaWxswIlENAyAAUyCVeTBrDIwnAqyAeMgbdsx.gif)
     no-repeat center center;
   background-size: cover;
 }
